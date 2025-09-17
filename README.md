@@ -86,8 +86,3 @@ Para tornar esta aplicação mais robusta e completa, algumas melhorias poderiam
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
----
-
-**Desenvolvido por:** Manus AI
-**Data:** 16 de Setembro de 2025
-
