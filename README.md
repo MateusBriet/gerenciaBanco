@@ -82,7 +82,4 @@ Para tornar esta aplicação mais robusta e completa, algumas melhorias poderiam
 *   **Tratamento de Exceções:** Implementar um tratamento de exceções mais robusto para entradas inválidas do usuário (e.g., `InputMismatchException`).
 *   **Testes Unitários:** Adicionar testes unitários para garantir o correto funcionamento das operações da `ContaBancaria`.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
